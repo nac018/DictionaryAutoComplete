@@ -1,17 +1,3 @@
-/* Author       : Hoi Wa Ng
- * 		  Nang Chen
- * Date         : 21/10/2017
- * PID          : cs100fcf
- * 		  cs100fao
- * Description  : This class searches a hundred words through the shuffled 
- * 		  dictionary. It utilizes three different data structures 
- * 		  (BST,HT,MWT) and calculate the time to searches these 
- * 		  words over our inputed size dictionary
- * 
- * Assignment # : PA2
- */
-
-
 #include <iostream>
 #include <fstream>
 #include <set>
