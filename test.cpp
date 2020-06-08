@@ -1,14 +1,3 @@
-/* Authors      : Hoi Wa Ng
- * 		  Nang Chen
- * Date         : 21/10/2017
- * PID          : cs100fcf
- * 		  cs100fao
- * Description  : Tester file to test the insert, find of different data 
- * structures. It also tests the predictCompletion method.
- * Assignment # : PA2
- */
-
-
 #include<iostream>
 #include<string>
 #include<algorithm>
