@@ -1,15 +1,3 @@
-/* Author       : Hoi Wa Ng
- * 		  Nang Chen
- * Date         : 21/10/2017
- * PID          : cs100fcf
- * 		  cs100fao
- * Description  : This class compares two hash functions by calculating 
- * 		  the hash values of them and compare the amount of 
- * 		  collision and find out which one is better overall.
- * 
- * Assignment # : PA2
- */
-
 #include <iostream>
 #include <fstream>
 #include <istream>
