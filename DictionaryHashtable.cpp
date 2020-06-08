@@ -1,14 +1,3 @@
-/* Author       : Hoi Wa Ng
- * 		  Nang Chen
- * Date         : 21/10/2017
- * PID          : cs100fcf
- * 		  cs100fao
- * Description  : This cpp class define a Dictionary class, which uses the
- * 		  Hashtable as its data structure to store words.
- * Assignment # : PA2
- */
-
-
 #include "util.h"
 #include "DictionaryHashtable.h"
 
