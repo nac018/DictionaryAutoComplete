@@ -1,17 +1,3 @@
-/**
- * CSE 100 PA2 C++ Autocomplete
- * Authors: Jor-el Briones, Christine Alvarado
- *
- * Name         : Hoi Wa Ng
- * 		  Nang Chen
- * Date         : 21/10/2017
- * PID          : cs100fcf
- * 		  cs100fao
- * Description  : Header file of DictionaryBST.cpp
- * Assignment # : PA2
-
- */
-
 #ifndef DICTIONARY_BST_H
 #define DICTIONARY_BST_H
 
